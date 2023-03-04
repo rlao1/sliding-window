@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-04T17:55:56 EST" name="Surefire suite" finished-at="2023-03-04T17:55:56 EST" duration-ms="88">
+    <groups>
+    </groups>
+    <test started-at="2023-03-04T17:55:56 EST" name="Surefire test" finished-at="2023-03-04T17:55:56 EST" duration-ms="88">
+      <class name="com.example.slidingwindow.SlidingWindowTest">
+        <test-method signature="shouldTestCountGoodSubstrings()[pri:0, instance:com.example.slidingwindow.SlidingWindowTest@255b53dc]" started-at="2023-03-04T17:55:56 EST" name="shouldTestCountGoodSubstrings" finished-at="2023-03-04T17:55:56 EST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldTestCountGoodSubstrings -->
+        <test-method signature="shouldTestCountGoodSubstringsAgain()[pri:0, instance:com.example.slidingwindow.SlidingWindowTest@255b53dc]" started-at="2023-03-04T17:55:56 EST" name="shouldTestCountGoodSubstringsAgain" finished-at="2023-03-04T17:55:56 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldTestCountGoodSubstringsAgain -->
+      </class> <!-- com.example.slidingwindow.SlidingWindowTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
